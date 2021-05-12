@@ -36,8 +36,8 @@ public class AlertPopupTest {
         alert.dismiss();
         
         		
-//        // Get the text on Alert
-//        String alertMessage= driver.switchTo().alert().getText();		
+        // Get the text on Alert
+////        String alertMessage= driver.switchTo().alert().getText();		
 //        		
 //        // Printing alert message		
 //        System.out.println(alertMessage);	
